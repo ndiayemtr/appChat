@@ -15,30 +15,30 @@
 			<form action="#">
 				<div class="error-txt">This is an error message!</div>
 				<div class="name-details">
-					<div class="field">
+					<div class="field input">
 						<label>First Name</label>
 						<input type="text" placeholder="First Name">
 					</div>
-					<div class="field">
+					<div class="field input">
 						<label>Lirst Name</label>
 						<input type="text" placeholder="Lirst Name">
 					</div>
-					<div class="field">
+					</div>
+					<div class="field input">
 						<label>Email Address</label>
 						<input type="email" placeholder="enter your email">
 					</div>
-					<div class="field">
+					<div class="field input">
 						<label>Passwod</label>
 						<input type="passwod" placeholder="Enter new password">
 					</div>
-					<div class="field">
+					<div class="field image">
 						<label>Select Image</label>
 						<input type="file" >
 					</div>
-					<div class="field">
+					<div class="field button">
 						<input type="submit" value="Continue to Chat">
-					</div>
-				</div>
+					</div>			
 			</form>
 			<div class="link">Already signed up? <a href="">Login now</a></div>
 		</section>		
