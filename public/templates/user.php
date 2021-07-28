@@ -96,5 +96,7 @@
 		</section>		
 	</div>
 
+		<script type="text/javascript" src="../javascript/users.js"></script>
+
 </body>
 </html>
