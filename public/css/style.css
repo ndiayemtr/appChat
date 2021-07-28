@@ -124,6 +124,11 @@ body {
 	cursor: pointer;
 }
 
+.form form .field i.active::before{
+	color: #333;
+	content: "\f070";
+}
+
 /*Users Area CSS code*/
 
 .users {

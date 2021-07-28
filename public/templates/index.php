@@ -24,7 +24,7 @@ require_once("partials/header.php");
 					</div>
 					<div class="field input">
 						<label>Passwod</label>
-						<input type="passwod" placeholder="Enter new password">
+						<input type="password" placeholder="Enter new password">
 						<i class="fas fa-eye"></i>
 					</div>
 					<div class="field image">
@@ -38,6 +38,8 @@ require_once("partials/header.php");
 			<div class="link">Already signed up? <a href="">Login now</a></div>
 		</section>		
 	</div>
+
+	<script type="text/javascript" src="../javascript/pass-show-hide.js"></script>
 
 </body>
 </html>
