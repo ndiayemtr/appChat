@@ -1,4 +1,4 @@
-<?php 
+²<?php 
 require_once("partials/header.php");
  ?>
  
@@ -7,15 +7,15 @@ require_once("partials/header.php");
 		<section class="form login">
 			<header>Realtime Chat App</header>
 			<form action="#">
-				<div class="error-txt">This is an error message!</div>
+				<div class="error-txt"></div>
 				
 					<div class="field input">
 						<label>Email Address</label>
-						<input type="email" placeholder="enter your email">
+						<input type="email" name="email" placeholder="enter your email">
 					</div>
 					<div class="field input">
 						<label>Passwod</label>
-						<input type="password" placeholder="Enter your password">
+						<input type="password" name="password" placeholder="Enter your password">
 						<i class="fas fa-eye"></i>
 					</div>
 					
@@ -28,6 +28,7 @@ require_once("partials/header.php");
 	</div>
 
 	<script type="text/javascript" src="../javascript/pass-show-hide.js"></script>
+	<script type="text/javascript" src="../javascript/login.js"></script>
 
 </body>
 </html>
