@@ -6,7 +6,7 @@ require_once("partials/header.php");
 	<div class="wrapper">
 		<section class="chat-area">
 			<header>
-				<a href="" class="back-icon"><i class="fas fa-arrow-left"></i></a>
+				<a href="user.php" class="back-icon"><i class="fas fa-arrow-left"></i></a>
 				<img src="../images/profil4.png" alt="">
 				<div class="details">
 					<span>ndiayemtr</span>
