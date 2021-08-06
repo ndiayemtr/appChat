@@ -265,6 +265,7 @@ body {
 
 /*cette classe est gérer par notre code PHP*/
 .users-list a .status-dot.offline{
+	font-size: 12px;
 	color: #ccc;
 }
 
